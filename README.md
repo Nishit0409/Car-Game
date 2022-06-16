@@ -3,7 +3,7 @@ The car racing game is a simple Java powered 2D game. This game consists of sing
 
 
 
-**How to start the game :
+**How to start the game**:
 1. javac Game.java
 2. java Game
 
